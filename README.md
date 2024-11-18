@@ -12,3 +12,5 @@ Cette formation est le saint graal de M2I...
 Le Gras c'est la vie.
 
 Elle est où la poulette ?
+
+Mise à jour des éléments du formulaire
