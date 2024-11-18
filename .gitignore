@@ -105,3 +105,4 @@ dist
 
 # Fichiers spécifiques
 log/
+*.orig
