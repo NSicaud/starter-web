@@ -126,3 +126,9 @@ Selecteur par id : #
      font-size: 25px;
      font-weight: bold;
  }
+ 
+ /* footer */
+ footer {
+	 font-style: italic;
+	 font-size : 10px
+ }
